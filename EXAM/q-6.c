@@ -1,0 +1,1 @@
+develop a c program that uses structure to represent a laptop(with attributes like company_name , processor,and price). list N number of laptop' details using array of ovject
